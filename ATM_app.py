@@ -14,7 +14,7 @@ warnings.filterwarnings('ignore')
 # 1. PAGE CONFIGURATION & LOGO TWEAK
 # ==========================================
 try:
-    img = Image.open("images/logo.png")
+    img = Image.open("logo.png")
 except:
     img = "🏦" 
 
