@@ -1,4 +1,6 @@
 ## 1000406_Jeyaditya_AIY1_Smart_ATM_Dashboard_FA2
+Link to access the app:
+[https://1000406-jeyaditya-aiy1-smart-atm-dashboard-fa2.streamlit.app/]
 # ATM Intelligence Demand Forecasting
 ### FinTrust Bank Ltd. | Data Mining Project (FA-1 & FA-2)
 
